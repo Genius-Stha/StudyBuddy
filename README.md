@@ -1,4 +1,4 @@
-# Study Sathi 
+# StudyBuddy
 The application is an advanced multilingual chatbot powered by the LLama3-8B pretrained model, fine-tuned using QLoRA for high efficiency and adaptability. This AI assistant is designed to provide accurate, context-aware, and dynamic responses across a variety of languages.
 Key Features:
 
@@ -23,3 +23,7 @@ Key Features:
 
     Users can interact with the chatbot through voice input for a seamless and hands-free experience.
     The application converts speech to text for processing and delivers responses via text or voice output.
+
+![Demo](https://github.com/Genius-Stha/StudyBuddy/blob/main/Demo.gif)
+
+    
